@@ -1,15 +1,15 @@
 {
   "announcement": {
-    "enabled": false,
+    "enabled": true,
     "variant": "info", 
     "text": "New: Seedream 4.0 polishing is live. Try it on portraits!",
     "linkText": "What’s new",
-    "linkUrl": "https://your-site-or-gumroad-changelog"
+    "linkUrl": "https://shaaraa.gumroad.com/l/promptfix"
   },
   "credits": {
     "enabled": true,
     "prefix": "Created by",
     "name": "Shara",
-    "url": "https://your-link-here"
+    "url": "https://shaaraa.gumroad.com/l/promptfix"
   }
 }
