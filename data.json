@@ -1,6 +1,6 @@
 {
   "announcement": {
-    "enabled": true,
+    "enabled": false,
     "variant": "info", 
     "text": "New: Seedream 4.0 polishing is live. Try it on portraits!",
     "linkText": "What’s new",
