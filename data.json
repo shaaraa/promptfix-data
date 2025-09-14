@@ -2,7 +2,7 @@
   "announcement": {
     "enabled": true,
     "variant": "info", 
-    "text": "New: Bug fixes, added variant to have multiple generations in one go!",
+    "text": "New Version 1.2.0: Bug fixes, added variant to have multiple generations in one go!",
     "linkText": "What’s new",
     "linkUrl": "https://shaaraa.gumroad.com/l/NanoBanana-Seedream-AI-Plugin-for-Photoshop-PROMPTFIX"
   },
