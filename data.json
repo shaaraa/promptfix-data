@@ -2,7 +2,7 @@
   "announcement": {
     "enabled": true,
     "variant": "info", 
-    "text": "New: Seedream 4.0 polishing is live. Try it on portraits!",
+    "text": "New: Bug fixes, added variant to have multiple generations in one go!",
     "linkText": "What’s new",
     "linkUrl": "https://shaaraa.gumroad.com/l/NanoBanana-Seedream-AI-Plugin-for-Photoshop-PROMPTFIX"
   },
