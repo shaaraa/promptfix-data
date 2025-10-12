@@ -2,7 +2,7 @@
   "announcement": {
     "enabled": true,
     "variant": "info", 
-    "text": "✨ New Version 1.7.0: Second Lora selector added for Qwen image 2509, Get all the Models, Vaes, Loras and Text Encoders lists",
+    "text": "✨ New Version 1.8.0: Added Background Removal, New Upscaler, Flux Kontext dev for ComfyUI",
     "linkText": "What’s new",
     "linkUrl": "https://shaaraa.gumroad.com/l/NanoBanana-Seedream-AI-Plugin-for-Photoshop-PROMPTFIX"
   },
