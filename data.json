@@ -2,7 +2,7 @@
   "announcement": {
     "enabled": true,
     "variant": "info", 
-    "text": "✨ New Version 1.8.0: Added Background Removal, New Upscaler, Flux Kontext dev for ComfyUI",
+    "text": "✨ New Version 2.1.0: Nano Banana Pro from Fal.ai / Crystal upscaler / Google Gemini API",
     "linkText": "What’s new",
     "linkUrl": "https://shaaraa.gumroad.com/l/NanoBanana-Seedream-AI-Plugin-for-Photoshop-PROMPTFIX"
   },
